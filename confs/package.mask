@@ -1,0 +1,3 @@
+>dev-lang/ghc-6.12.3
+>x11-misc/xmobar-0.13
+<www-client/firefox-14.0.1

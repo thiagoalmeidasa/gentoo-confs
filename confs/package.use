@@ -1,0 +1,46 @@
+app-emulation/virtualbox java vnc extensions  vboxwebsrv
+dev-libs/libxml2 -icu
+media-video/mplayer cddb mpg123 v4l aalib dvb libcaca libmpeg2 lzo radio
+pp-mobilephone/gnokii sms
+net-fs/samba winbind
+app-admin/conky thinkpad lua lua-cairo mpd mpd weather-metar weather-xoap wifi curl audacious eve hddtemp imlib iostat lua-imlib
+app-emulation/vmware-workstation server vmware-tools ovftool
+app-emulation/emul-linux-x86-java nsplugin
+media-tv/xbmc webserver mysql
+x11-libs/cairo qt4
+sys-fs/ntfs3g extras
+app-office/libreoffice pdfimport
+dev-lang/php gd soap apache2 ftp mysql curl curlwrappers sqlite3 sockets zip cgi xmlreader xmlrpc xmlwriter pdo mysqli
+>=media-libs/gd-2.0.35-r3 fontconfig xpm
+app-emulation/phpvirtualbox vhosts
+net-print/hplip scanner hpijs
+net-analyzer/zabbix agent curl frontend mysql server proxy snmp ssh -sqlite
+media-video/vlc aalib cddb libcaca libv4l libv4l2 lua matroska optimisememory oss skins stream taglib theora v4l vlm wma-fixed
+>=dev-lang/php-5.3.13:5.3 bcmath
+dev-java/oracle-jre-bin nsplugin
+dev-java/oracle-jdk-bin nsplugin
+net-p2p/deluge webinterface
+net-analyzer/mtr -gtk suid
+net-misc/openssh -ldap
+>=dev-libs/folks-0.6.9 eds
+media-sound/audacious -gtk
+media-plugins/audacious-plugins -gtk
+=dev-libs/libgcrypt-1.4.6 static-libs
+=sys-apps/util-linux-2.21.2 static-libs
+>=dev-libs/popt-1.16-r1 static-libs
+app-emulation/xen-tools qemu hvm xend
+=dev-libs/libgpg-error-1.10 static-libs
+=sys-libs/zlib-1.2.5.1-r2 minizip
+gnome-extra/zenity -webkit
+media-video/ffmpeg v4l libv4l
+=app-misc/hivex-1.3.2-r2 perl
+=app-emulation/qemu-kvm-1.0.1 qemu_user_targets_x86_64
+app-emulation/libvirt virtualbox xen
+www-apps/owncloud mysql vhosts
+net-firewall/iptables netlink
+=dev-lang/php-5.4.6 bcmath
+net-analyzer/zabbix sqlite -mysql
+dev-db/freetds mssql odbc
+media-video/ushare dlna
+>=sys-libs/zlib-1.2.7 minizip
+>=net-misc/csync-0.50.8 samba
